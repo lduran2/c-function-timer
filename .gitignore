@@ -1,0 +1,16 @@
+# objects
+*.o
+*.gch
+
+# executables
+*.out
+
+# swap files
+.*.swp
+
+# silly rename
+.nfs*
+
+# source copies
+1
+
